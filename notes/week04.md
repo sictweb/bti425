@@ -1,9 +1,9 @@
 ---
-title: WEB422 Week 4
+title: BTI425 Week 4
 layout: default
 ---
 
-## WEB422 Week 4 Notes
+## BTI425 Week 4 Notes
 
 This week we will continue to work with *props* as a way to communicate data between components, as well as introduce event handling, routing and working with data from an API. 
 

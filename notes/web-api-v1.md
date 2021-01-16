@@ -243,7 +243,7 @@ We will leave this as an in-class hands-on task (in our computer-lab session).
 
 #### Generate a substantial amount of data
 
-One of the new skills that a WEB422 student should add is the ability to generate and use a large amount of data. This is especially important for web programmers, because the result of the work we do is so visual in nature. It is always a good idea to use and show good solid credible data, instead of crappy placeholder data (e.g. abc, 123, foo, bar, etc.) that is so common in entry-level programming work. 
+One of the new skills that a BTI425 student should add is the ability to generate and use a large amount of data. This is especially important for web programmers, because the result of the work we do is so visual in nature. It is always a good idea to use and show good solid credible data, instead of crappy placeholder data (e.g. abc, 123, foo, bar, etc.) that is so common in entry-level programming work. 
 
 Here, we will introduce you to, or remind you about, the [Mockaroo service](https://mockaroo.com):
 

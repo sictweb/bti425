@@ -5,7 +5,7 @@ layout: default
 
 ## Introduction to Securing a Web API with JWT
 
-Before we can begin learning about how to secure a Web API, we will need to create a simple Node.js server to handle our API requests.  To speed this along, we have included a simple Web API in the Code Examples for this week (See the "simple-api" folder from the [Week 11 example code](https://github.com/sictweb/web422/tree/master/Code%20Examples/week11)).  Currently, the primary function of this Web API is to return a hard-coded, static list of vehicles from its data-service.js module, using the route "/api/vehicles".  
+Before we can begin learning about how to secure a Web API, we will need to create a simple Node.js server to handle our API requests.  To speed this along, we have included a simple Web API in the Code Examples for this week (See the "simple-api" folder from the [Week 11 example code](https://github.com/sictweb/bti425/tree/master/Code%20Examples/week11)).  Currently, the primary function of this Web API is to return a hard-coded, static list of vehicles from its data-service.js module, using the route "/api/vehicles".  
 
 Once you have grabbed the "simple-api" folder from gitHub, open it in Visual Studio and execute the command:
 
@@ -45,7 +45,7 @@ Back in WEB322, we discussed a number of [security considerations](https://web32
 
 #### MongoDB Atlas & MongoDB
 
-You should be familiar with MongoDB Atlas from our [experience in WEB322](https://web322.ca/notes/week08) as well as from your first WEB422 Assignment.  MongoDB Atlas will be responsible for hosting our separate (MongoDB) "simple-api-users" database.
+You should be familiar with MongoDB Atlas from our [experience in WEB322](https://web322.ca/notes/week08) as well as from your first BTI425 Assignment.  MongoDB Atlas will be responsible for hosting our separate (MongoDB) "simple-api-users" database.
 
 To begin, set up a new "simple-api-users" database with a "uses" collection for the simple API.  Once this is done, get a copy of the connection string - this should look something like: 
 

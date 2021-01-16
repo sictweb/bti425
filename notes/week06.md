@@ -1,9 +1,9 @@
 ---
-title: WEB422 Week 6
+title: BTI425 Week 6
 layout: default
 ---
 
-## WEB422 Week 6 Notes
+## BTI425 Week 6 Notes
 
 Starting this week, we will shift focus to Angular.
 

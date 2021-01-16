@@ -1,9 +1,9 @@
 ---
-title: WEB422 Week 1
+title: BTI425 Week 1
 layout: default
 ---
 
-## WEB422 Week 1 Notes
+## BTI425 Week 1 Notes
 
 The theme for the first few classes is to transition your success in the previous course to the new topics in this course.
 
@@ -38,7 +38,7 @@ The weekly notes will be organized and delivered as a collection of topic-themed
 
 New topic presentation, discussions, and demonstrations. While some brief notes are included below, be prepared to take your own notes. 
 
-* [Welcome](welcome) to the WEB422 course
+* [Welcome](welcome) to the BTI425 course
 
 * [Developer tools](dev-tools) used in this course
 

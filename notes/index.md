@@ -1,5 +1,5 @@
 ---
-title: WEB422 Notes
+title: BTI425 Notes
 layout: default
 ---
 
@@ -20,7 +20,7 @@ Here, you will find the links to the weekly notes.  Please also remember to refe
 <tr>
 <td><a href="/bti425/notes/week01">1 - Notes</a></td>
 <td>
-Welcome to WEB422:<br><br>
+Welcome to BTI425:<br><br>
 <ul>
 <li>Dev environment setup</li>
 <li>Re-introduction to back-end web services and testing</li>

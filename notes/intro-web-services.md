@@ -277,6 +277,6 @@ We have been reminded of our brief introduction to web service programming in th
 
 Terminology was introduced, argued, and explained. 
 
-Now, you're ready to take the next step, and create web services that support the main focus of this WEB422 course, which is front end client-side browser apps. 
+Now, you're ready to take the next step, and create web services that support the main focus of this BTI425 course, which is front end client-side browser apps. 
 
 <br>

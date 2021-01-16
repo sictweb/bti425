@@ -5,7 +5,7 @@ layout: default
 
 ## Graded work
 
-This page has details about the graded work in WEB422, for the current academic term.
+This page has details about the graded work in BTI425, for the current academic term.
 
 <br>
 

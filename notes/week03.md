@@ -1,9 +1,9 @@
 ---
-title: WEB422 Week 3
+title: BTI425 Week 3
 layout: default
 ---
 
-## WEB422 Week 3 Notes
+## BTI425 Week 3 Notes
 
 The theme for the next three weeks is to introduce you to learning and using **React**, a JavaScript library from Facebook, for building user interfaces. It also kicks off our introduction to designing web apps using ***Components***:
 

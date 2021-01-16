@@ -1,17 +1,17 @@
 ---
-title: Welcome to the WEB422 course
+title: Welcome to the BTI425 course
 layout: default
 ---
 
-## Welcome to the WEB422 course
+## Welcome to the BTI425 course
 
-Welcome to the WEB422 course. This document has information that helps you get started in the course.
+Welcome to the BTI425 course. This document has information that helps you get started in the course.
 
 <br>
 
 ### Course introduction
 
-Welcome to WEB422!
+Welcome to BTI425!
 
 In this course, you will learn to create web client (front end, in the browser) apps that work with a web service (back end, in the server). The apps will enable entry-level functionality, which can be hosted on-premise or in the cloud.
 
@@ -60,11 +60,11 @@ During the course, the professor(s) will guide the student in the installation, 
 
 > Please be aware of the following:
 > 
-> You are NOT required to use your own personal computer for WEB422 course work.
+> You are NOT required to use your own personal computer for BTI425 course work.
 > 
 > The College has hundreds of correctly-configured systems, ready to be used. You can save your work in the cloud, or on a (fast) USB flash drive.
 > 
-> If you have problems or difficulties using your own personal computer for WEB422 course work, your professor will not be able to provide technical support. Maybe the student help desk (in the library) can help. In a problem scenario, you are still expected to complete your work on time. A problematic personal computer *cannot* be used as an excuse for delays in completing the course work.
+> If you have problems or difficulties using your own personal computer for BTI425 course work, your professor will not be able to provide technical support. Maybe the student help desk (in the library) can help. In a problem scenario, you are still expected to complete your work on time. A problematic personal computer *cannot* be used as an excuse for delays in completing the course work.
 
 <br>
 
