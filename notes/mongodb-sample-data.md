@@ -7,7 +7,7 @@ layout: default
 
 Throughout this course, we will be leveraging the excellent [sample data](https://docs.atlas.mongodb.com/sample-data/available-sample-datasets/) available from MongoDB Atlas.  This short guide will provide a short set of steps to help you create a new project in Atlas, as well as adding the sample data. 
 
-**NOTE** This guide assumes that you still have your MongoDB Atlas account from WEB322.  If this is not the case, please create a new account and follow the below steps.
+**NOTE** This guide assumes that you still have your MongoDB Atlas account from BTI325.  If this is not the case, please create a new account and follow the below steps.
 
 <br>
 
@@ -41,7 +41,7 @@ Once Step 3 is complete, you can go ahead and create a cluster for your Project 
 
 ![New Project Step 4](/bti425/media/atlas-new-project-5.png).
 
-This should take you to a screen where you can configure your cluster.  Just as we did in WEB322, pick the FREE options.
+This should take you to a screen where you can configure your cluster.  Just as we did in BTI325, pick the FREE options.
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ If you click on the collections button now, you should see that you now have acc
 * sample_training
 * sample_weatherdata
 
-**NOTE:** To get the connection string to connect to this database, you will have to go through the same procedure as WEB322 (ie: click the "connect" button and whitelist the IP address 0.0.0.0/0 and create a user before clicking "Connect Your Application").  For a refresher on how to do this, please see the [Week 8 notes for WEB322](https://web322.ca/notes/week08) under "Setting up a MongoDB Atlas account".  
+**NOTE:** To get the connection string to connect to this database, you will have to go through the same procedure as BTI325 (ie: click the "connect" button and whitelist the IP address 0.0.0.0/0 and create a user before clicking "Connect Your Application").  For a refresher on how to do this, please see the Week 8 notes for BTI325 under "Setting up a MongoDB Atlas account".  
 
 Do not forget that once you get your connection string, replace the instance of "test" with the database that you wish to connect to, ie: "sample_supplies".
 

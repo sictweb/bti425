@@ -79,7 +79,7 @@ const path = require("path");
 const HTTP_PORT = process.env.PORT || 8080;
 ```
 
-This is fairly standard and was discussed in detail during our time in WEB322.  Essentially it loads the "express" & "path" modules as well as sets the port to either 8080 *or* the PORT identified within an environment variable (used by Heroku).
+This is fairly standard and was discussed in detail during our time in BTI325.  Essentially it loads the "express" & "path" modules as well as sets the port to either 8080 *or* the PORT identified within an environment variable (used by Heroku).
 
 <br>
 

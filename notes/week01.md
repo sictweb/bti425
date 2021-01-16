@@ -13,7 +13,7 @@ Remember to frequently use the [learning resources](/resources).
 
 ### Previous course
 
-In the previous course (WEB322), you began to learn the principles and practices for creating simple web apps and services:
+In the previous course (BTI325), you began to learn the principles and practices for creating simple web apps and services:
 * Most of the work was done on the server (document generation, computation, etc.)
 * Resources were dynamically generated on demand, and delivered to browsers (and yes, we could still deliver static assets, like images)
 * Very little work was done with the browser DOM

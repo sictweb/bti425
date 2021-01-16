@@ -5,7 +5,7 @@ layout: default
 
 ## jQuery Review
 
-As we have seen from the notes in the WEB322 course, the jQuery Library is an extremely popular and valuable tool for front-end web application development.  To refresh your memory:
+As we have seen from the notes in the BTI325 course, the jQuery Library is an extremely popular and valuable tool for front-end web application development.  To refresh your memory:
 
 > "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript."
 

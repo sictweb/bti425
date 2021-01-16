@@ -16,7 +16,7 @@ This is the third course in the web programming sequence.
 Therefore, continue to use the content from the courses that you have successfully completed:
 
 * WEB222 - Web Programming Principles
-* WEB322 - Web Programming Tools and Frameworks
+* BTI325 - Web Programming Tools and Frameworks
 
 <br>
 

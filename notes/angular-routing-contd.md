@@ -7,7 +7,7 @@ layout: default
 
 ### Introducing "Parameters"
 
-Last week, we introduced a way to define simple routes (ie: display a specific Component when a route is matched / no route is matched, or redirect to a separate route altogether)  However, as we learned in WEB322, there are ways to capture variables within our routes, ie **Route** Parameters & **Query** Parameters.  
+Last week, we introduced a way to define simple routes (ie: display a specific Component when a route is matched / no route is matched, or redirect to a separate route altogether)  However, as we learned in BTI325, there are ways to capture variables within our routes, ie **Route** Parameters & **Query** Parameters.  
 
 The following explanations are from the excellent Rangle.io documentation for [Route Parameters](https://angular-2-training-book.rangle.io/handout/routing/routeparams.html) and [Query Parameters](https://angular-2-training-book.rangle.io/handout/routing/query_params.html) 
 

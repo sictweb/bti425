@@ -91,7 +91,7 @@ It should respond with the console message, and then terminate.
 
 ### Write a simple web server 
 
-Follow much of the technique used in WEB322 Week 9. Our goal is to create an app that will handle these requests:
+Follow much of the technique used in BTI325 Week 9. Our goal is to create an app that will handle these requests:
 * Get all
 * Get one
 * Add new

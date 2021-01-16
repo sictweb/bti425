@@ -56,7 +56,7 @@ Do not hesitate to use multiple terminal windows. During development, your profe
 * Another is focused on the current app itself
   * It's used to create new files and to run app-specific commands (e.g. `npm start`, or `ng <something>`)
 
-If you're hesitating because you're uncomfortable with a Unix CLI, then get over it. You passed the ULI101, WEB222, and WEB322 courses, so you are expected to know how to perform typical file system and app execution tasks. If your comfort level is low, then vow to improve your skillset in this area. 
+If you're hesitating because you're uncomfortable with a Unix CLI, then get over it. You passed the WEB222, and BTI325 courses, so you are expected to know how to perform typical file system and app execution tasks. If your comfort level is low, then vow to improve your skillset in this area. 
 
 If you're thinking that the terminal area of Visual Studio Code is enough for you, then that's inefficient, confining, and often awkward, when compared to using real terminal windows. 
 

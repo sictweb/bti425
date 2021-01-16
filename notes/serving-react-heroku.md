@@ -20,7 +20,7 @@ Once this process is complete, open the newly created "build" folder.  You will 
 
 Now, all we need to run this in a "production" environment, is a static web server.  Fortunately for us, we know exactly how to create one using Node.js and Express.
 
-Recall [from WEB322](https://web322.ca/notes/week04), a **server.js** file using the following code:
+Recall from BTI325, a **server.js** file using the following code:
 
 ```javascript
 var express = require("express");
@@ -52,10 +52,8 @@ Once this is complete, we can run our new Express server.js file (`node server.j
 
 ### Hosting on Heroku
 
-Now that our server.js file running just fine on port 8080 on localhost, we should be able to push it to Heroku just like our applications in WEB322.  The only real difference here is that the server is only serving up *static* files within a public directory to **build** the application on the client-side. The "404" style middleware is implemented to simply redirect users *back* to the app, if they enter a path manually in the browser (thereby making a "get" request explicitly for a specific route defined within the App).
+Now that our server.js file running just fine on port 8080 on localhost, we should be able to push it to Heroku just like our applications in BTI325.  The only real difference here is that the server is only serving up *static* files within a public directory to **build** the application on the client-side. The "404" style middleware is implemented to simply redirect users *back* to the app, if they enter a path manually in the browser (thereby making a "get" request explicitly for a specific route defined within the App).
 
-For a refresher on how to initialize a local git repository, check in code, create a new app on Heroku, etc. please refer back to the documentation outlined in WEB322, ie:
-
-#### ["Getting Started With Heroku"](https://web322.ca/getting-started-with-heroku)
+For a refresher on how to initialize a local git repository, check in code, create a new app on Heroku, etc. please refer back to the documentation outlined in BTI325, ie: "Getting Started With Heroku"
 
 <br>

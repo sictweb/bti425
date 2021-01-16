@@ -184,7 +184,7 @@ queryString.parse(props.query) // used to obtain an object from the query string
 
 ### Adding A "Not Found" Route
 
-Using React Router, we can easily define a "Not Found" route - this is analogous to the "404" error that we returned in our server.js files in WEB322 when a route was not matched.
+Using React Router, we can easily define a "Not Found" route - this is analogous to the "404" error that we returned in our server.js files in BTI325 when a route was not matched.
 
 To add a "Not Found" route, we simply need to add another route as a child to our `<Switch>` component defined in App.js.  This route will need to be **beneath** the other routes, so that it doesn't block any of our legitimate routes:
 
