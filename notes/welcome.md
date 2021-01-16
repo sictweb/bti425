@@ -25,7 +25,7 @@ Throughout the learning process, you will learn foundational concepts, skills, a
 
 Coming into the course, you must have some experience and success programming object-oriented software in C++. This means that you must have passed OOP345.
 
-In addition, you must have some experience and success with web client programming, and you must "get" the server-based web application concept. This means that you must have passed WEB222 and BTI325.
+In addition, you must have some experience and success with web client programming, and you must "get" the server-based web application concept. This means that you must have passed BTI225 and BTI325.
 
 We're also counting on database experience and success gained in your database courses, and in BTI325.
 
