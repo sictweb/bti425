@@ -5,7 +5,7 @@ layout: default
 
 ## Notes
 
-Here, you will find the links to the weekly notes.  Please also remember to refer to the [learning resources](/resources) for additional help.
+Here, you will find the links to the weekly notes.  Please also remember to refer to the [learning resources](/bti425/resources/) for additional help.
 
 <br>
 
