@@ -11,4 +11,4 @@ For more information:
 
 * [Angular Socket.io Introduction](angular-socketio-intro)
 
-Remember to frequently use the [learning resources](/bti425/resources/).
+Remember to frequently use the [learning resources](/resources/).
