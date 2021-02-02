@@ -77,7 +77,7 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 
 </ul>
 </td>
-<td><li>Assignment-01</li>
+<td><ul><li>Assignment-01</li></ul>
 </td>
 </tr>
 
