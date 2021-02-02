@@ -26,13 +26,15 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 <td>1</td>
 <td>
 <ul>
-<li>Dev environment setup</li>
-<li>Re-introduction to back-end web services and testing</li>
+<li>Web services re-introduction</li>
+<li>Configure back end server as a web API</li>
+<li>Dev Environment setup</li>
+<li>How to extract/parse JSON/XML data from WebAPI using AJAX</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Assignment&nbsp;1<br />(5%)</li>
+<li>Lab-01<br />(2%)</li>
 </ul>
 </td>
 <td></td>
@@ -42,20 +44,20 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 <td>2</td>
 <td>
 <ul>
-<li>Short jQuery with Bootstrap 3 Review</li>
-<li>Helpful utility functions with Lodash &amp; Rendering Data</li>
-<li>Handling Date / Time information using Moment</li>
+<li>Introduction to jQuery</li>
+<li>Manipulate DOM using jQuery</li>
+<li>Extracting JSON/XML data from WebAPI using jQuery AJAX</li>
+<li>Additional libraries coverage:</li>
+<li>Moment.js</li>
+<li>Lodash.js</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Assignment&nbsp;2<br />(9%)</li>
-</ul>
+<li>Lab-02 (2%)</li>
+<li>Assignment-01 (7%)</li></ul>
 </td>
 <td>
-<ul>
-<li>Assignment&nbsp;1</li>
-</ul>
 </td>
 </tr>
 
@@ -65,36 +67,34 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 <ul>
 <li>Introduction to React</li>
 <li>Getting started by creating a simple application</li>
-<li>Introduction to React Components</li>
+<li>Explore React project structure</li>
+<li>Understand the role of React Element, React Component and JSX in a React application</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Test 1
-<br />(Weeks 1-2)<br />(10%)</li>
+<li>Test-01 <br />(Weeks 1,2,3)<br />(10%)</li>
+
 </ul>
 </td>
-<td></td>
+<td><li>Assignment-01</li>
+</td>
 </tr>
 
 <tr>
 <td>4</td>
 <td>
 <ul>
+<li>Introduction to React Components</li>
 <li>Handling Events and Rendering Data</li>
-<li>Introduction to Routing</li>
-<li>Creating a UI with 3rd party Components</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Assignment&nbsp;3<br />(9%)</li>
+<li>Lab-03<br />(2%)</li>
 </ul>
 </td>
 <td>
-<ul>
-<li>Assignment&nbsp;2</li>
-</ul>
 </td>
 </tr>
 
@@ -102,14 +102,16 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 <td>5</td>
 <td>
 <ul>
+<li>Introduction to Routing</li>
+<li>Creating a UI with 3rd party Components</li>
 <li>Processing forms in React</li>
-<li>Serving a React App / Hosting on Heroku</li>
+<li>Implement Form validation</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Test 2
-<br />(Weeks 3-4)<br />(10%)</li>
+<li>Lab-04 (2%)</li>
+<li>Assignment-02 (8%)</li>
 </ul>
 </td>
 <td></td>
@@ -119,19 +121,19 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 <td>6</td>
 <td>
 <ul>
-<li>Introduction to Angular</li>
-<li>Getting started by running the default App</li>
-<li>Introduction to Angular Components and Templates</li>
+<li>Processing forms in React</li>
+<li>Ajax Call in React (async/await)</li>
+<li>Serving a React App / Hosting on Heroku</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Assignment&nbsp;4<br />(9%)</li>
+<li>Lab-05<br />(2%)</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Assignment&nbsp;3</li>
+<li>Assignment-02</li>
 </ul>
 </td>
 </tr>
@@ -142,15 +144,14 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 <td>7</td>
 <td>
 <ul>
-<li>Attribute, Class, Style Bindings & Directives</li>
-<li>Emitting Events</li>
-<li>Introduction to Routing</li>
+<li>Review</li>
+<li>Test</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Test 3
-<br />(Weeks 5-6)<br />(10%)</li>
+<li>Test-02 (Midterm)<br />(15%)</li>
+
 </ul>
 </td>
 <td></td>
@@ -169,120 +170,121 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 <td>8</td>
 <td>
 <ul>
-<li>Angular Services Introduction</li>
-<li>Working with a Web API in Angular</li>
+<li>Introduction to Angular and TypeScript</li>
+<li>Getting started by running the default App</li>
+<li>Introduction to Angular Components and Templates</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Lab-06 (2%)</li>
+</ul>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<ul>
+<li>Attribute, Class, Style Bindings &amp; Directives</li>
+<li>Emitting Events</li>
+<li>Introduction to Routing</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Lab-07 (2%)</li>
+<li>Assignment-03 (7%)</li>
+</ul>
+</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<ul>
+<li>Angular Services</li>
+<li>Working with a Web API, HttpClient, Observable in Angular</li>
 <li>Angular Routing Continued</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Assignment&nbsp;5<br />(9%)</li>
+<li>Test-03 (Weeks 8,9,10) (10%)</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Assignment&nbsp;4</li>
+<li>Assignment-03</li>
 </ul>
 </td>
 </tr>
-
 <tr>
-<td>9</td>
+<td>11</td>
 <td>
-Introduction to Working with Forms in Angular<br><br>
 <ul>
-<li>Angular Forms Introduction</li>
+<li>Working with Forms in Angular</li>
+<li>Implement Form validation</li>
 <li>Element "State" &amp; Validation</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Test 4
-<br />(Weeks 7-8)<br />(10%)</li>
+<li>Lab-08 (2%)</li>
+<li>Assignment-04 (8%)</li>
 </ul>
 </td>
 <td></td>
 </tr>
-
-<tr>
-<td>10</td>
-<td>
-Introduction to Angular Deployment &amp; Testing<br><br>
-<ul>
-<li>Introduction to Building / Deploying an Angular app using Node.js</li>
-<li>A brief introduction to the Angular testing landscape</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Assignment&nbsp;6<br />(9%)</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Assignment&nbsp;5</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td>11</td>
-<td>
-  Introduction to Securing a Web API with JWT <br><br>
-<ul>
-  <li>Introduction to JWT</li>
-  <li>Review User Account Management / Security (MongoDB / bcrypt)</li>
-  <li>Securing routes in an existing API using Passport.js / Passport-jwt</li>
-  <li>Updating an Angular app to use JWT (Route Guards / Http Interceptors)</li>
-  </ul>
-</td>
-<td>
-<ul>
-<li>Test 5
-<br />(Weeks 9-10)<br />(10%)</li>
-</ul>
-</td>
-<td></td>
-</tr>
-
 <tr>
 <td>12</td>
-<td>Introduction to Socket.io <br><br>
-<ul>
-<li>Creating a server using Node/Express for managing socket connections</li>
-<li>Developing an Angular application which contains a working "chat window"</li>
-</ul>  
-</td>
 <td>
+<ul>
+<li>Introduction to Angular Deployment &amp; Testing</li>
+</ul>
 </td>
 <td>
 <ul>
-<li>Assignment&nbsp;6</li>
+<li>Lab-09 (2%)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Assignment-04</li>
 </ul>
 </td>
 </tr>
-
 <tr>
 <td>13</td>
-  <td><ul><li>Course Review</li></ul></td>
 <td>
 <ul>
-<li>Test 6
-<br />(Weeks 11-12)<br />(10%)</li>
+<li>Introduction to Securing a Web API with JWT</li>
+<li>Introduction to JWT</li>
+<li>Securing routes in an existing API using Passport.js</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Lab-10 (2%)</li>
 </ul>
 </td>
 <td></td>
 </tr>
-
+<tr>
+<td>14</td>
+<td>
+<ul>
+<li>Review</li>
+<li>Test</li>
+</ul>
+</td>
+<td><ul><li>Test-04 (Final) (15%)</li></ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 </div>
 <br />
-
-#### Summary
-
-6 Tests - 50% (10%/ea - lowest test dropped)<br>
-6 Assignments - 50% ([A1] = 5%, [A2-A6] = 9%/ea)    
 
 #### Promotion Policy
 
