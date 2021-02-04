@@ -21,7 +21,7 @@ At its heart, react is really a "JavaScript library for building user interfaces
 
 ### Create an app
 
-With the "create-react-app" tool correctly installed using NPM (above), you can now proceed to create a new app. Begin by creating a new folder on your machine and open it using Visual Studio Code.  Next, open the Integrated Terminal and (assuming that you want to create a new app (and folder) named "my-app") execute the command:
+Begin by creating a new folder on your machine and open it using Visual Studio Code.  Next, open the Integrated Terminal and (assuming that you want to create a new app (and folder) named "my-app") execute the command:
 
 ```text
 npx create-react-app my-app
