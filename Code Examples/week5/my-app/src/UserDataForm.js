@@ -1,6 +1,6 @@
-import React, {useState, useEffect} from 'react';
+import {useState, useEffect} from 'react';
 
-function UserDataForm(props){
+function UserDataForm(){
 
     const [userData, setUserData] = useState(null);
 
@@ -42,11 +42,10 @@ function UserDataForm(props){
 
         setUserData(userData => {
             // return a new object built with the properties from userData 
-            // including a new property name:value.  If name:value exists, it will be 
+            // including a new property name: value.  If name:value exists, it will be 
             // overwritten, ie: let obj1 = {x:5,x:6}; console.log(obj1); // {x: 6}  
             return {...userData, [name]: value}; 
         });
-
     }
 
     if(!userData){
