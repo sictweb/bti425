@@ -123,7 +123,7 @@ Each test will commence at the start of the corresponding **Lecture** period (we
 <ul>
 <li>Processing forms in React</li>
 <li>Ajax Call in React (async/await)</li>
-<li>Serving a React App / Hosting on Heroku</li>
+<li>Serving a React App</li>
 </ul>
 </td>
 <td>
