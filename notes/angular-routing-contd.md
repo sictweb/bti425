@@ -129,7 +129,7 @@ ngOnInit() {
 }
 
 ngOnDestroy() {
-   this.sub.unsubscribe();
+  this.sub.unsubscribe();
 }
 ```
 <br>

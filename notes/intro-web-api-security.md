@@ -47,13 +47,13 @@ Back in BTI325, we discussed a number of security considerations that are vital 
 
 You should be familiar with MongoDB Atlas from our experience in BTI325 as well as from your first BTI425 Assignment.  MongoDB Atlas will be responsible for hosting our separate (MongoDB) "simple-api-users" database.
 
-To begin, set up a new "simple-api-users" database with a "uses" collection for the simple API.  Once this is done, get a copy of the connection string - this should look something like: 
+To begin, set up a new "simple-api-users" database with a "users" collection for the simple API.  Once this is done, get a copy of the connection string - this should look something like: 
 
 ```
-mongodb+srv://user:<password>@cluster0-abc1.mongodb.net/<dbname>?retryWrites=true&w=majority
+mongodb+srv://user:<password>@cluster0-abc1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 ```
 
-**Note:** You will have to change the **&lt;dbname&gt;** in the above connection string to **simple-api-users**, as well as the values for **user** and **&lt;password&gt;** to match the credentials that you created for a user of the cluster.
+**Note:** You will have to change **myFirstDatabase** in the above connection string to **simple-api-users**, as well as the values for **user** and **&lt;password&gt;** to match the credentials that you created for a user of the cluster.
 
 Be sure to keep track of your connection string, as we will be using it in the next piece:
 
@@ -360,7 +360,7 @@ We have now identified that we would like to work with JWT to secure our routes.
 
 #### jsonwebtoken
 
-The ["jsonwebtoken" module](https://www.npmjs.com/package/jsonwebtoken) (available using `npm install jsonwebtoken --save` &amp; added to server.js using: `var jwt = require('jsonwebtoken');`).  In our application, this module is used primairly to **"sign"** our JSON payload with a 'secret' and generate the token, ie:
+The ["jsonwebtoken" module](https://www.npmjs.com/package/jsonwebtoken) (available using `npm install jsonwebtoken --save` &amp; added to server.js using: `var jwt = require('jsonwebtoken');`).  In our application, this module is used primarily to **"sign"** our JSON payload with a 'secret' and generate the token, ie:
 
 ```javascript
 var token = jwt.sign({ userName: 'bob' }, 'secret');

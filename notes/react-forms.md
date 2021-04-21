@@ -109,7 +109,7 @@ The textarea tag can be controlled in exactly the same way as a simple "input" t
 
 ### The select Tag
 
-If we wish to add a &lt;select&gt; element, we can follow the same pattern. 
+If we wish to add a &lt;select&gt; element, we can follow the same pattern: 
 
 ```jsx
 <select name="campus" value={userData.campus} onChange={handleChange}>
@@ -232,7 +232,7 @@ Additionally, you should use the [File API](https://developer.mozilla.org/en-US/
 
 ```jsx
 
-import React, { useRef } from 'react'
+import { useRef } from 'react'
 
 function FileInput(props) {
 

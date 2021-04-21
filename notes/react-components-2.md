@@ -128,4 +128,11 @@ They can be accessed using the routes:
 Finally, the data source used in the example is provided by [reqres.in](https://reqres.in/).  Specifically, it's the routes:
 
 * GET [https://reqres.in/api/unknown](https://reqres.in/api/unknown) - for a list of products ("data")
-* GET [https://reqres.in/api/unknown/n](https://reqres.in/api/unknown/n) - for a single product ("data") where "n" is the "id" value.  
+* GET [https://reqres.in/api/unknown/n](https://reqres.in/api/unknown/n) - for a single product ("data") where "n" is the "id" value. 
+
+<!-- TODO: Here is a good spot to mention SWR https://swr.vercel.app/ - a "hooks library for data fetching" - it can be a part of a very short "Fetch" review -->
+
+
+
+
+
