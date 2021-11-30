@@ -263,7 +263,7 @@ export class ChatService {
     this.socket = io('http://localhost:8080');
 
     this.socket.on('chat message', (msg: string) => {
-      this.getMessages.next(msg); // send the new message
+      this.getMessages.next(msg); // send the new message 
     });
 
   }
