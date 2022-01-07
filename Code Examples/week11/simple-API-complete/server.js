@@ -21,7 +21,7 @@ jwtOptions.jwtFromRequest = ExtractJwt.fromAuthHeaderWithScheme("jwt");
 // (ideally stored in a "protected storage" area on the web server).
 // We suggest that you generate a random 50-character string
 // using the following online tool:
-// https://lastpass.com/generatepassword.php 
+// https://lastpass.com/generatepassword.php
 
 jwtOptions.secretOrKey = '&0y7$noP#5rt99&GB%Pz7j2b1vkzaB0RKs%^N^0zOP89NT04mPuaM!&G8cbNZOtH';
 
